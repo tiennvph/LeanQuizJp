@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">LearnQuizJP</string>
+
+    <!--LoginActivity-->
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_username">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">LOGIN</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="title_activity_sign_up">Sign up</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_tv_register_new_account">Not a member? Get registered now!</string>
+    <string name="login_cb_remember">Remember me</string>
+    <string name="notify_empty_email">Email can not be empty</string>
+    <string name="notify_length_pass">Password too short, enter minimum 6 characters!</string>
+    <string name="notify_empty_pass">Password can not be empty</string>
+    <string name="login_successful">Login successful</string>
+    <string name="login_fail">Authentication failed, check your email and password or sign up</string>
+    <string name="login_forget_password">Forget your password ?</string>
+
+
+    <!--SignUpActivity-->
+    <string name="register_tv_back_login">Already have account? Login now</string>
+    <string name="action_register">Register</string>
+    <string name="register_tv_title">Register new account</string>
+    <string name="register_tv_warning">All field has been required</string>
+    <string name="signup_password_not_match">Password not match</string>
+    <string name="register_successful">createUserWithEmail:onComplete:</string>
+
+    <!--ResetPasswordActivity-->
+    <string name="forgot_pass_title">Reset your password</string>
+    <string name="forgot_pass_confirm">We just need your registered Email Id to sent you password reset instructions
+    </string>
+    <string name="action_reset_password">Reset password</string>
+    <string name="forgot_pass_empty_email">Enter your registered email id</string>
+    <string name="forgot_pass_sent_successful">We have sent you instructions to reset your password!</string>
+    <string name="forgot_pass_sent_fail">Failed to send reset email!</string>
+
+    <!--HomeActivity-->
+    <string name="home_btn_search">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_result">Result</string>
+
+    <string name="tv_lever_N1">Japanese quiz level 1</string>
+    <string name="tv_lever_N2">Japanese quiz level 2</string>
+    <string name="tv_lever_N3">Japanese quiz level 3</string>
+    <string name="tv_lever_N4">Japanese quiz level 4</string>
+    <string name="tv_lever_N5">Japanese quiz level 5</string>
+    <string name="tv_failnoti">Good luck next time!</string>
+    <string name="tv_true">Correct</string>
+    <string name="tv_fail">Wrong</string>
+    <string name="tv_do_not">Not finish</string>
+    <string name="tv_quizdemo">いくら良いマンションだと勧められても、家賃が月30万円もする のでは我々の（_____）庶民しょみんに借りられるはずがない。</string>
+    <string name="tv_status_test">Quiz</string>
+    <string name="tv_cancer">Close</string>
+    <string name="tv_click_view_test">Click the question to show more detail</string>
+    <string name="tv_submit_test">End the quiz</string>
+
+
+    <!--Drawer Navigation-->
+    <string name="nav_home">Home</string>
+    <string name="nav_learning">Learning</string>
+    <string name="nav_quiz">Quiz</string>
+    <string name="nav_setting">Setting</string>
+    <string name="nav_feedback">Feedback</string>
+    <string name="nav_about">About</string>
+    <string name="nav_log_out">Log out</string>
+
+    <!--UserFragment-->
+    <string name="user_fragment_action_save">Save</string>
+    <string name="user_fragment_title">User Profile</string>
+    <string name="user_fragment_email">email</string>
+    <string name="user_fragment_action_reset_password">Reset password</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="notify_input_new_password">Input your new password</string>
+    <string name="notify_change_password_successful">Password is updated, sign in with new password!</string>
+    <string name="notify_change_password_fail">Failed to update password!</string>
+    <string name="notify_upload_avatar_fail">Image can not be uploaded ! Please check your connection</string>
+    <string name="notify_upload_avatar_successful">Upload image successful</string>
+    <string name="notify_save_user_successful">Save user information successful</string>
+    <string name="notify_save_user_fail">Failed to save user information. Error: ${it.message}</string>
+
+    <!--ChooseLevelLearningActivity-->
+    <string name="title_activity_choose_level_learning">Choose Level Learning</string>
+
+    <!--ChooseLevelPracticeActivity-->
+    <string name="title_activity_choose_level_practice">Choose level pratice</string>
+
+    <!--ChooseLevelTestActivity-->
+    <string name="title_activity_choose_level_test">Choose level test</string>
+
+    <!--ReviewActivity-->
+    <string name="tv_view">Show Answer</string>
+    <string name="title_activity_review">Review</string>
+
+    <!--PrepareActivity-->
+    <string name="title_activity_prepare">Prepare</string>
+    <string name="prepare_warning">
+        This quiz will test your Japanese ability\n
+        Number of question : 35\n
+        Time : 45 minutes\n
+        Pass score : 60%\n
+        Click button below to start the quiz
+    </string>
+
+    <!--QuizActivity-->
+    <string name="title_activity_quiz">Quiz</string>
+    <string name="quiz_tv_warning">Choose the way to test ability</string>
+    <string name="quiz_tv_practice">Practice</string>
+    <string name="quiz_tv_test">Test</string>
+    <string name="quiz_tv_practice_title">Practice session</string>
+    <string name="quiz_tv_test_title">Quiz session</string>
+    <string name="tv_detail">Detail</string>
+
+    <!--StartActivity-->
+    <string name="title_activity_start">Start</string>
+
+    <!--TestActivity-->
+    <string name="title_activity_test">Quiz</string>
+    <string name="test_ac_up">End Quiz</string>
+    <string name="test_ac_up_check">Are you sure to end the quiz?</string>
+    <string name="test_ac_accept">Accept</string>
+    <string name="test_ac_cancel">Cancel</string>
+
+    <!--PrepareActivity-->
+    <string name="prepare_ac_up">Confirmation</string>
+    <string name="prepare_ac_up_check">Are you sure to start the quiz now ?</string>
+    <string name="prepare_ac_yes">Yes</string>
+    <string name="prepare_ac_no">No</string>
+
+    <!--LearningActivity-->
+    <string name="title_activity_learning">Learning</string>
+
+    <!--LearningDetailActivity-->
+    <string name="title_activity_learning_detail">Learning Detail</string>
+
+    <!--Common-->
+    <string name="facebook_app_id">320933768505220</string>
+
+    <!--HomeFragment-->
+    <string name="notify_empty_search_value">Input keyword to search, it can not be empty</string>
+    <string name="notify_search_no_result">We can not find your word</string>
+    <string name="action_love">Love</string>
+
+    <!--SettingFragment-->
+    <string name="setting_receive_notification">Allow app to receive notification</string>
+    <!--ResultActivity-->
+    <string name="result_check">You need to do at least 1 question!</string>
+
+</resources>

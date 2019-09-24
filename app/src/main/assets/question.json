@@ -1,0 +1,494 @@
+{
+  "question": [
+    {
+      "qzcode" : 1,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    },
+    {
+      "qzcode": 2,
+      "qzcontent": "パーティーは土曜日（　　　）？日曜日（　　　）？どっちか忘れちゃった。",
+      "ascortect": "という　という",
+      "asincortecT1": "っけ　っけ",
+      "asincortecT2": "なんて　なんて",
+      "asincortecT3": "だっけ　だっけ",
+      "explain": "という　という",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 3,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 4,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 5,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 6,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 7,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 8,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 9,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 10,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 11,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 12,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 13,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 14,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 15,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 16,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 17,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 18,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 19,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 20,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 21,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 22,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 23,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 24,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 25,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 26,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 27,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 28,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 29,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 30,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 31,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 32,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 33,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 34,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+  ,
+    {
+      "qzcode": 35,
+      "qzcontent": "日本語の歌が（　　　）、よくカラオケに行くようになった",
+      "ascortect": "歌えるようになってから",
+      "asincortecT1": "歌うことになって",
+      "asincortecT2": "歌えることにならなくて",
+      "asincortecT3": "歌うようになったから",
+      "explain": "歌えるようになってから",
+      "csfykindcode": 3,
+      "csfylvcode": 3,
+      "qzstatuschk":0,
+      "ascurrent": ""
+    }
+
+  ]
+
+}

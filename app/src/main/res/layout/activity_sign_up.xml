@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:background="@drawable/login_background"
+        tools:context=".activity.LoginActivity">
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+            <ProgressBar
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:id="@+id/progressBar"
+                    android:layout_gravity="center|top"
+                    android:layout_marginTop="8dp"
+                    android:visibility="gone"/>
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/round_corner_background"
+                    android:padding="16dp"
+                    android:orientation="vertical" app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent" android:layout_marginStart="8dp"
+                    android:layout_marginLeft="8dp" android:layout_marginTop="120dp" android:layout_marginEnd="8dp"
+                    android:layout_marginRight="8dp">
+
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="left"
+                        android:text="@string/register_tv_title"
+                        android:textSize="25sp"
+                        android:textStyle="bold"
+                        android:layout_marginTop="32dp"
+                        android:layout_marginBottom="8dp"/>
+
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="left"
+                        android:text="@string/register_tv_warning"
+                        android:textSize="12sp"
+                        android:textStyle="bold"
+                        android:textColor="#C93D3D"
+                        android:layout_marginBottom="8dp"/>
+
+                <android.support.design.widget.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginBottom="8dp"
+                        app:counterEnabled="true">
+
+                    <EditText
+                            android:id="@+id/edtEmail"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="@string/prompt_username"
+                            android:inputType="textEmailAddress"
+                            android:maxLines="1"
+                            android:singleLine="true"
+                            android:selectAllOnFocus="true"/>
+
+                </android.support.design.widget.TextInputLayout>
+
+                <android.support.design.widget.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginBottom="8dp"
+                        app:counterEnabled="true">
+
+                    <EditText
+                            android:id="@+id/edtPassword"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="@string/prompt_password"
+                            android:imeActionId="6"
+                            android:imeActionLabel="@string/action_sign_in_short"
+                            android:imeOptions="actionUnspecified"
+                            android:inputType="textPassword"
+                            android:maxLines="1"
+                            android:singleLine="true"
+                            android:selectAllOnFocus="true"/>
+
+                </android.support.design.widget.TextInputLayout>
+
+                <android.support.design.widget.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginBottom="32dp"
+                        app:counterEnabled="true">
+
+                    <EditText
+                            android:id="@+id/edtRePassword"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="@string/prompt_password"
+                            android:imeActionId="6"
+                            android:imeActionLabel="@string/action_sign_in_short"
+                            android:imeOptions="actionUnspecified"
+                            android:inputType="textPassword"
+                            android:maxLines="1"
+                            android:singleLine="true"
+                            android:selectAllOnFocus="true"/>
+
+                </android.support.design.widget.TextInputLayout>
+
+            </LinearLayout>
+
+            <Button
+                    android:layout_gravity="center"
+                    android:id="@+id/btnRegister"
+                    style="?android:textAppearanceSmall"
+                    android:layout_width="240dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:padding="8dp"
+                    android:text="@string/action_register"
+                    android:textStyle="bold"
+                    android:textSize="24sp"
+                    android:textColor="@color/colorPrimary"
+                    android:background="@drawable/shape"/>
+
+            <TextView
+                    android:id="@+id/tvLogin"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/register_tv_back_login"
+                    android:layout_gravity="center|bottom"
+                    android:layout_marginTop="48dp"
+                    android:textSize="18sp"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</android.support.constraint.ConstraintLayout>
+
