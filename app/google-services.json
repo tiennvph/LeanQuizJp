@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_number": "491213962585",
+    "firebase_url": "https://learnquizjp.firebaseio.com",
+    "project_id": "learnquizjp",
+    "storage_bucket": "learnquizjp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491213962585:android:7603a5c6e465a336",
+        "android_client_info": {
+          "package_name": "com.app.learnquizjp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491213962585-vpntv7na784h0bj4jdnq1ne53uu8u8nt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.learnquizjp",
+            "certificate_hash": "1c092531d72ea6f4a2f18e5c87c59a0ac40b3ee5"
+          }
+        },
+        {
+          "client_id": "491213962585-9thc9fojgfi68trdsqibcu28i0b5hj5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.learnquizjp",
+            "certificate_hash": "2ec5aa755a9a0879917ddb9751f1ea883cc907e7"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB1wu5STfwC4LiT2abvLUW0acfzcAbNXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491213962585-6cpu0dn6o35j9r8ts7k43rbe6bjvo9g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

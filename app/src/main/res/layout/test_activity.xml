@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <LinearLayout
+            android:padding="@dimen/nav_header_vertical_spacing"
+            android:weightSum="10"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/graylight"
+            android:orientation="horizontal">
+            <TextView
+                    android:layout_marginLeft="@dimen/nav_header_vertical_spacing"
+                    android:layout_marginRight="@dimen/nav_header_vertical_spacing"
+                    android:background="@drawable/shape_status_quiz"
+                    android:gravity="center"
+                    android:text="1/35"
+                    android:id="@+id/tv_status_quiz"
+                    android:textColor="@color/black"
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                     />
+            <TextView
+                    android:layout_marginLeft="@dimen/nav_header_vertical_spacing"
+                    android:layout_marginRight="@dimen/nav_header_vertical_spacing"
+                    android:background="@drawable/shape_clook"
+                    android:layout_weight="3"
+                    android:id="@+id/tv_clook"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textColor="@color/black"
+                    />
+            <TextView
+                    android:gravity="center"
+                    android:text="Đã làm: 0/35"
+                    android:id="@+id/tv_status_test"
+                    android:layout_marginLeft="@dimen/nav_header_vertical_spacing"
+                    android:layout_marginRight="@dimen/nav_header_vertical_spacing"
+                    android:background="@drawable/shape_status_test"
+                    android:layout_weight="3"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                   />
+
+
+        <Button
+                android:layout_weight="2.5"
+                android:layout_marginLeft="@dimen/nav_header_vertical_spacing"
+                android:layout_marginRight="@dimen/nav_header_vertical_spacing"
+                android:id="@+id/btn_submit"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@color/white"
+                android:text="@string/tv_submit_test"
+                android:textColor="@color/black"
+        />
+
+    </LinearLayout>
+
+    <android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+                                       android:id="@+id/pager"
+                                       android:layout_width="match_parent"
+                                       android:layout_height="fill_parent"/>
+</LinearLayout>

@@ -1,0 +1,109 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:weightSum="10"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/content"
+                android:layout_weight="9"
+                android:layout_width="match_parent"
+                android:layout_height="0dp">
+        <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:orientation="vertical">
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                <TextView
+                        android:id="@+id/tv_bmquiz_r"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="20sp"
+                        android:textColor="#000000"
+                        android:textStyle="italic"
+                        android:text="Câu 1"/>
+                <TextView
+                        android:id="@+id/tv_question_r"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="20sp"
+                        android:textColor="#000000"
+                        android:textStyle="italic"
+                        android:text="@string/tv_quizdemo"/>
+            </LinearLayout>
+            <RadioGroup
+                    android:enabled="false"
+                    android:weightSum="4"
+                    android:minHeight="240dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                <RadioButton
+                        android:textColor="@color/black"
+                        android:enabled="false"
+                        android:layout_marginTop="@dimen/margin_quiz"
+                        android:gravity="center"
+                        android:id="@+id/rad_answerA_r"
+                        android:layout_width="match_parent"
+                        android:layout_weight="1"
+                        android:layout_height="0dp"
+                        android:button="@drawable/ic_a"
+                        android:background="@drawable/radio_button_background"
+                        android:text="RadioButton1"/>
+                <RadioButton
+                        android:textColor="@color/black"
+                        android:enabled="false"
+                        android:layout_marginTop="@dimen/margin_quiz"
+                        android:gravity="center"
+                        android:id="@+id/rad_answerB_r"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:button="@drawable/ic_b"
+                        android:background="@drawable/radio_button_background"
+                        android:text="RadioButton1"/>
+                <RadioButton
+                        android:textColor="@color/black"
+                        android:enabled="false"
+                        android:layout_marginTop="@dimen/margin_quiz"
+                        android:gravity="center"
+                        android:id="@+id/rad_answerC_r"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:button="@drawable/ic_c"
+                        android:background="@drawable/radio_button_background"
+                        android:text="RadioButton1"/>
+
+                <RadioButton
+                        android:textColor="@color/black"
+                        android:enabled="false"
+                        android:layout_marginTop="@dimen/margin_quiz"
+                        android:gravity="center"
+                        android:id="@+id/rad_answerD_r"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/radio_button_background"
+                        android:button="@drawable/ic_d"
+                        android:text="RadioButton1"/>
+            </RadioGroup>
+
+        </LinearLayout>
+    </ScrollView>
+    <Button
+            android:id="@+id/btn_show_answer"
+            android:background="@color/bluelight"
+            android:layout_weight="1"
+            android:text="@string/tv_view"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"/>
+</LinearLayout>

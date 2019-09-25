@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:stretchColumns="0,1"
+            android:padding="16dp">
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="Hiragana"
+                    android:textSize="19sp"
+                    android:gravity="center"
+                    android:textAllCaps="true"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="Nghĩa"
+                    android:textSize="19sp"
+                    android:gravity="center"
+                    android:textAllCaps="true"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorPrimaryDark"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="わたし"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="tôi"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="わたしたち"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="chúng tôi, chúng ta"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="あなた"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="anh/ chị/ ông/ bà"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="あのひと"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="người kia, người đó"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="あのかた"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="vị kia"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp" android:layout_width="match_parent" android:layout_height="match_parent">
+            <TextView
+                    android:text="きょうし"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="giáo viên"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="みなさん"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="các anh chị, các bạn"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp" android:layout_width="match_parent" android:layout_height="match_parent">
+            <TextView
+                    android:text="せんせい"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="thầy/ cô"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="～さん"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="anh, chị, ông, bà"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp" android:layout_width="match_parent" android:layout_height="match_parent">
+            <TextView
+                    android:text="けんきゅうしゃ"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="nhà nghiên cứu"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="～ちゃん"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="dùng cho gọi trẻ em"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="～くん"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="dùng cho bé trai"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="～じん"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="người (nước)"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="がくせい"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="học sinh, sinh viên"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="かいしゃいん"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="nhân viên công ty"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="ぎんこういん"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="nhân viên ngân hàng"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="いしゃ"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="bác sĩ"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="エンジニア"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="kỹ sư"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="だいがく"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="đại học, trường đại học"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="びょういん"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="bệnh viện"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="でんき"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="điện, đèn điện"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="だれ（どなた）"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="ai?"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="―さい"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="―tuổi"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="なんさい"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="bao nhiêu tuổi"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="はい"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="vâng, dạ"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="いいえ"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="không"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="しつれいですが"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="xin lỗi,…"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="おなまえは？"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="Tên anh/chị là gì?"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="はじめまして。"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="Rất hân hạnh được gặp anh/chị"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="アメリカ"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="Mỹ"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="イギリス"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="Anh"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="インド"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="Ấn Độ"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="インドネシア"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="Indonesia"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="かんこく"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="Hàn Quốc"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="ちゅうごく"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="Trung Quốc"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="にほん"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="Nhật Bản"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="フランス"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="Pháp"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+        <TableRow android:layout_margin="8dp">
+            <TextView
+                    android:text="ブラジル"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorAccent"/>
+            <TextView
+                    android:text="Braxin"
+                    android:textSize="20sp"
+                    android:textColor="@color/colorPrimary"/>
+        </TableRow>
+
+    </TableLayout>
+
+</ScrollView>
+

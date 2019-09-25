@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linear"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:animateLayoutChanges="true">
+
+    <Button
+        android:id="@+id/btnToggle1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Khẳng định và phủ định của một danh từ"/>
+    <LinearLayout
+        android:id="@+id/tvToggle1"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:layout_margin="8dp">
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Cấu trúc khẳng định"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="N　 です" android:textColor="@color/colorAccent"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="là~"/>
+        <View android:layout_width="match_parent" android:layout_height="1.5dp" android:layout_marginTop="16dp" android:background="#FFFFFF"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Cấu trúc phủ định"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="N　 ではありません hoặc (N　 じゃありません)" android:textColor="@color/colorAccent"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="không phải là~"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnToggle2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Trợ từ は"/>
+    <LinearLayout
+            android:id="@+id/tvToggle2"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:orientation="vertical"
+            android:layout_margin="8dp">
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Cấu trúc"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="~　は　~" android:textColor="@color/colorAccent"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text=" は dùng để giới thiệu về một đề tài nào đó mà người nói muốn đề cập đến.Nó dùng để phân cách chủ ngữ và vị ngữ trong câu."/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnToggle3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Câu nghi vấn"/>
+    <LinearLayout
+            android:id="@+id/tvToggle3"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:orientation="vertical"
+            android:layout_margin="8dp">
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Cấu trúc"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="~ はNです か。\n Nじゃありません か。" android:textColor="@color/colorAccent"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="  ~ phải không?"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Chữ か được đặt ở cuối câu dùng để làm câu nghi vấn."/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnToggle4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Trợ từ も"/>
+    <LinearLayout
+            android:id="@+id/tvToggle4"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:orientation="vertical"
+            android:layout_margin="8dp">
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Cấu trúc"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="~　も　~" android:textColor="@color/colorAccent"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text=" Cũng ~"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Được dùng khi có yếu tố được lặp lại. Khi yếu tố lặp lại mất đi thì も cũng mất đi."/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnToggle5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Trợ từ の"/>
+    <LinearLayout
+            android:id="@+id/tvToggle5"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:orientation="vertical"
+            android:layout_margin="8dp">
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Cấu trúc"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="N 1　の　N ２" android:textColor="@color/colorAccent"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Của,..."/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="の dùng để nối 2 danh từ với nhau. Trong đó N 2 là ý chính, N 1dùng để bổ nghĩa cho N 2."/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnToggle6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hỏi tuổi tác"/>
+    <LinearLayout
+            android:id="@+id/tvToggle6"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:orientation="vertical"
+            android:layout_margin="8dp">
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Cấu trúc"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="~は おいくつ(なんさい)ですか。" android:textColor="@color/colorAccent"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="~ bao nhiêu tuổi?"/>
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="おいくつ là cách hỏi tuổi lịch sự."/>
+
+    </LinearLayout>
+
+</LinearLayout>

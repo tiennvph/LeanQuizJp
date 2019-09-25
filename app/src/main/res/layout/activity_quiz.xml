@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            tools:context=".activity.QuizActivity">
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/quiz_tv_warning"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:textColor="@color/colorAccent"
+                android:padding="8dp"
+                android:layout_marginTop="16dp"/>
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="8dp"
+                android:layout_margin="8dp">
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/quiz_tv_practice_title"
+                    android:textSize="20sp"
+                    android:padding="8dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="8dp"/>
+
+            <TextView
+                    android:id="@+id/tvPractice"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:textSize="25sp"
+                    android:text="@string/quiz_tv_practice"
+                    android:textColor="#ffffff"
+                    android:gravity="center"
+                    android:background="@drawable/quiz_practice"
+                    android:layout_marginBottom="16dp"
+                    android:layout_marginTop="8dp"/>
+
+            <View
+                    android:layout_width="match_parent"
+                    android:layout_height="3dp"
+                    android:layout_marginTop="16dp"
+                    android:background="#ff00"/>
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/quiz_tv_test_title"
+                    android:textSize="20sp"
+                    android:padding="8dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="8dp"/>
+
+            <TextView
+                    android:id="@+id/tvTest"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:textSize="25sp"
+                    android:text="@string/quiz_tv_test"
+                    android:textColor="#ffffff"
+                    android:gravity="center"
+                    android:background="@drawable/quiz_test"
+                    android:layout_marginTop="8dp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

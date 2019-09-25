@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="8dp"
+        tools:context=".activity.ChooseLevelTestActivity">
+
+    <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="5dp"
+            android:layout_margin="8dp"
+            android:padding="8dp"
+            android:id="@+id/tv_lever_N5">
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="80dp"
+                    android:src="@drawable/quiz_level_icon"
+                    app:civ_border_width="2dp"
+                    app:civ_border_color="@color/dark_black"/>
+
+            <TextView
+                    android:textSize="18sp"
+                    android:textStyle="italic|bold"
+                    android:textColor="@color/colorAccent"
+                    android:padding="@dimen/activity_vertical_margin"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:text="@string/tv_lever_N5"/>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="5dp"
+            android:layout_margin="8dp"
+            android:padding="8dp"
+    >
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="80dp"
+                    android:src="@drawable/quiz_level_icon"
+                    app:civ_border_width="2dp"
+                    app:civ_border_color="@color/dark_black"/>
+
+            <TextView
+                    android:textSize="18sp"
+                    android:textStyle="italic|bold"
+                    android:textColor="@color/colorAccent"
+                    android:padding="@dimen/activity_vertical_margin"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:text="@string/tv_lever_N4"/>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="5dp"
+            android:layout_margin="8dp"
+            android:padding="8dp"
+    >
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="80dp"
+                    android:src="@drawable/quiz_level_icon"
+                    app:civ_border_width="2dp"
+                    app:civ_border_color="@color/dark_black"/>
+
+            <TextView
+                    android:textSize="18sp"
+                    android:textStyle="italic|bold"
+                    android:textColor="@color/colorAccent"
+                    android:padding="@dimen/activity_vertical_margin"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:text="@string/tv_lever_N3"/>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="5dp"
+            android:layout_margin="8dp"
+            android:padding="8dp"
+    >
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="80dp"
+                    android:src="@drawable/quiz_level_icon"
+                    app:civ_border_width="2dp"
+                    app:civ_border_color="@color/dark_black"/>
+
+            <TextView
+                    android:textSize="18sp"
+                    android:textStyle="italic|bold"
+                    android:textColor="@color/colorAccent"
+                    android:padding="@dimen/activity_vertical_margin"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:text="@string/tv_lever_N2"/>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="5dp"
+            android:layout_margin="8dp"
+            android:padding="8dp"
+    >
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="80dp"
+                    android:src="@drawable/quiz_level_icon"
+                    app:civ_border_width="2dp"
+                    app:civ_border_color="@color/dark_black"/>
+
+            <TextView
+                    android:textSize="18sp"
+                    android:textStyle="italic|bold"
+                    android:textColor="@color/colorAccent"
+                    android:padding="@dimen/activity_vertical_margin"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:text="@string/tv_lever_N1"/>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
+
