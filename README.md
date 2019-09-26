@@ -37,7 +37,7 @@ This project uses libraries and tools like:
 
 # How to build/run the projects
 
-- open project in android studyo and start
+- open project in android studio and start
 
 
 
