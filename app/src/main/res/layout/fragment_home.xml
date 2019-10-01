@@ -13,13 +13,13 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:weightSum="10">
-
+		
         <EditText
             android:id="@+id/edtKey"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="7.5"/>
-
+		
         <Button
             android:id="@+id/btnSearch"
             android:text="@string/home_btn_search"
