@@ -16,6 +16,7 @@ class LearningDetailActivity : AppCompatActivity() {
         setContentView(R.layout.activity_learning_detail)
         loadFragment(savedInstanceState)
     }
+	// Handle action bar item clicks here. The action bar will
 
     private fun loadFragment(savedInstanceState : Bundle?){
         val fragmentList : MutableList<Fragment> = mutableListOf()

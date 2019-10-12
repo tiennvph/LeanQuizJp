@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="36dp"
         app:layout_behavior="@string/appbar_scrolling_view_behavior" />
-
+	<-- Detail -->
     <eu.long1.spacetablayout.SpaceTabLayout
         android:id="@+id/navigation"
         android:layout_width="wrap_content"

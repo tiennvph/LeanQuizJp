@@ -21,6 +21,7 @@ class LearningActivity : AppCompatActivity(),View.OnClickListener {
             R.id.imgN5 -> onActionChooseLearningLevel(5)
         }
     }
+	// Handle action bar item clicks here. The action bar will
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
