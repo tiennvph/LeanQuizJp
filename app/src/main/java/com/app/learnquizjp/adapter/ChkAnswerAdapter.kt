@@ -41,7 +41,6 @@ class ChkAnswerAdapter : RecyclerView.Adapter<AnswerHolder> {
 
 }
 
-
 class AnswerHolder(itemView: View?) : RecyclerView.ViewHolder(itemView!!) {
         var radioGroup: RadioGroup = itemView!!.findViewById(R.id.rad_group)
         var tv_position: TextView = itemView!!.findViewById(R.id.tv_position)

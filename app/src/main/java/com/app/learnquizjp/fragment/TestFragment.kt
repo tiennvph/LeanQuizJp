@@ -14,7 +14,6 @@ import kotlinx.android.synthetic.main.test_activity.*
 import kotlinx.android.synthetic.main.test_fragment.*
 import java.util.*
 
-
 class TestFragment : Fragment(){
     val ARG_PAGE = "page"
     // total quiz checked
@@ -23,7 +22,6 @@ class TestFragment : Fragment(){
     var review:Boolean = false
     var totalDoNot: Int = 0
     var mPageNumber: Int = 0
-
 
     var loatASls: ArrayList<Question> = ArrayList()
     var dataChkQz: ArrayList<Question> = ArrayList()

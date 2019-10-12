@@ -8,5 +8,4 @@ class QuestionService {
     @SerializedName("question")
     @Expose
     var question: List<Question> = ArrayList()
-
 }
