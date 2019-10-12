@@ -8,13 +8,13 @@
     android:orientation="horizontal"
     android:padding="16dp"
     android:weightSum="5">
-
+    
     <TextView
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="4"
         android:textSize="18sp"
-        android:text="@string/setting_receive_notification"/>
+        android:text="Allow app to receive notification"/>
 
     <Switch
         android:layout_width="0dp"
@@ -23,4 +23,3 @@
         android:id="@+id/switchOnOff"/>
 
 </LinearLayout>
-
