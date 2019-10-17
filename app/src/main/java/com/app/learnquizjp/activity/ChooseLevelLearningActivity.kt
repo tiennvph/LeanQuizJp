@@ -36,7 +36,7 @@ class ChooseLevelLearningActivity : AppCompatActivity() {
         data.add(8,"残念です")
         data.add(9,"チリソースがありませんか")
     }
-
+	// Handle action bar item clicks here. The action bar will
     private fun addLessonList(){
         var learningAdapter = LearningAdapter(data)
         var linearLayoutManager = LinearLayoutManager(this)

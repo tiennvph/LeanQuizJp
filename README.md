@@ -1,4 +1,3 @@
-<<<<<<< .mine
 #LearnQuizJP
 - Android Apps 
 - Kotlin
