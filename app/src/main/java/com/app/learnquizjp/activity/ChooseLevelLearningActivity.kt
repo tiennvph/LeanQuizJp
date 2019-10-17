@@ -22,7 +22,6 @@ class ChooseLevelLearningActivity : AppCompatActivity() {
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
         addLessonData()
         addLessonList()
-
     }
 
     private fun addLessonData(){

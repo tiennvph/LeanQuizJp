@@ -10,7 +10,6 @@ import kotlinx.android.synthetic.main.activity_learning.*
 
 class LearningActivity : AppCompatActivity(),View.OnClickListener {
 
-
     override fun onClick(v: View?) {
         var id : Int = v!!.id
         when(id){
